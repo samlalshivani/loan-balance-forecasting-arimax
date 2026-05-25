@@ -55,7 +55,6 @@ The scenario analysis highlights the loan portfolio’s exposure to broader macr
 | File | Description |
 |---|---|
 | `Project Code.ipynb` | Python notebook containing data processing, modeling, diagnostics, and forecasting |
-| `figures/` | Forecast plots, residual diagnostics, and transformation graphs |
 
 ## Author
 Shivani Samlal  
